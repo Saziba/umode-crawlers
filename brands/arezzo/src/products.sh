@@ -1,0 +1,13 @@
+curl "https://www.arezzo.com.br/_next/data/WbzXqjJQDWboujEuBAX17$1.json" \
+  -H 'authority: www.arezzo.com.br' \
+  -H 'accept: */*' \
+  -H 'accept-language: pt-BR,pt;q=0.6' \
+  -H 'cache-control: no-cache' \
+  -H 'pragma: no-cache' \
+  -H 'referer: https://www.arezzo.com.br/c/sapatos/scarpins' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36' \
+  --compressed
